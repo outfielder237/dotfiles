@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cdrx10@gmx.us
+	name = Cedric Wamba
